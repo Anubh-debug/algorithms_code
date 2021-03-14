@@ -1,7 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * insertion_sort time complexity is O(n^2) where n is the number of elements to be sorted in worst case.
+ * if inputs to the algorithm are already sorted then time complexity will be O(n). 
+ * space complexity is O(1) because we havent used significant space inside inserion sort method. we have delared only constants.
+ * insertion sort is stable in nature as well as it is an online algorithm.
  */
 /**
  *
